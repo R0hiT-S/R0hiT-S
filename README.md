@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R0hiT-S
-- 👀 I’m interested in Adroid Development
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in Adroid and Web Development
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
